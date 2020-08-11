@@ -1,5 +1,12 @@
-### Hi there 👋
+### A rising specialist in deep learning, applied mathematics, and the solution of data-driven problems. 
 
+I am currently employed at the Applied Physics Laboratory of the University of Washington, developing deep-learning-based vision solutions for applications in robotics. This work has included the assembly of a novel dataset and the development of a novel deep-learning architecture to deliver robotics control decisions.
+
+My current focus of study is on methods in segmentation, sequence learning, and depth estimation, as well as in now-canonical object classification and localization. Previously, I've been more broadly interested in the mathematics behind the development of these methods.
+
+I'm looking to be a part of larger teams working on novel tech development in robotics and perception or on data-driven infrastructure improvements, both digital and logistical.
+
+Reach me at mwmasters10@gmail.com.
 <!--
 **MorganMasters/MorganMasters** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
