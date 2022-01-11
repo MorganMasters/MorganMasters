@@ -6,7 +6,7 @@ I focus on image segmentation, sequence learning, and depth estimation, as well 
 
 I enjoy being a part of larger teams working on novel tech development in robotics and perception or on data-driven infrastructure improvements, both digital and logistical.
 
-Reach me at mwmast@uw.edu.
+Reach me at mwmaster@ucsc.edu.
 <!--
 **MorganMasters/MorganMasters** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
